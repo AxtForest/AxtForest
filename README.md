@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Unity Engine.
+- 🌱 I’m currently learning Unity Engine and Blender.
+- 📫 How to reach me: Ayberkyasar7@gmail.com
 <!--
 **AxtForest/AxtForest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
