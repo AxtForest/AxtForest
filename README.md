@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Unity Engine.
-- 🌱 I’m currently learning Unity Engine and German.
+- 🔭 I’m currently working on Unreal Engine.
+- 🌱 I’m currently learning Unreal Engine and English.
 - 📫 How to reach me: Ayberkyasar7@gmail.com
 
 Thanks for visiting!
