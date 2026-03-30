@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Unity.
-- 🌱 I’m currently learning Unreal Engine and C++.
+- 🌱 I’m currently learning Unity.
 - 📫 How to reach me: Ayberkyasar7@gmail.com
 
 Thanks for visiting!
